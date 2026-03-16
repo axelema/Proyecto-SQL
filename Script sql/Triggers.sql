@@ -1,4 +1,4 @@
-/*
+
 -- Creando trigger para actualizar el campo de Fecha_alta en tabla Rol_personal automaticamente cuando se insera un registro en el campo ID_PERSONAL
 DELIMITER $$
 CREATE TRIGGER actualizar_fecha
