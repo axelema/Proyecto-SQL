@@ -1,4 +1,4 @@
-/*
+
 
 -- Funcion contar posiciones: Cuenta la cantidad de posiciones de una orden de compra
 DELIMITER $$
