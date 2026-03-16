@@ -1,4 +1,4 @@
-/*
+
 USE departamento_compras;
 
 -- ROLES
