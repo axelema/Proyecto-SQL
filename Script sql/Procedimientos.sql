@@ -1,4 +1,4 @@
-/*
+
 
 -- Procedimiento actualizacion de fecha de entrega: Se utiliza para actualizar fechas de entrega de ordenes de compra de forma que no se inserten registros ilogicos
 DELIMITER $$
