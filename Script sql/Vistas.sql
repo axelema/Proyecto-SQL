@@ -1,4 +1,3 @@
-/*
 
 -- Vista aprobadores: Se utiliza para visualizar quienes son los responsables del circuito de aprobacion de las diferentes ordenes de compra
 CREATE VIEW departamento_compras.aprobadores AS
