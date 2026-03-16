@@ -1,4 +1,4 @@
-/*
+
 -- Alter sobre fecha de doc de OC, para que el campo se actualice automaticamente durante la ingesta de datos
 ALTER TABLE departamento_compras.oc
 MODIFY COLUMN fecha_de_doc TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP;	
